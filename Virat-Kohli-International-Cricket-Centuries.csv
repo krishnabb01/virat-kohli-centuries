@@ -62,7 +62,7 @@
 61,157* , West Indies,3,1,"ACA-VDCA Cricket Stadium, Visakhapatnam",Home,24-10-2018,Tied
 62,107, West Indies,3,2,"Maharashtra Cricket Association Stadium, Pune",Home,27-10-2018,Lost
 63,123, Australia,4,2,"Perth Stadium, Perth",Away,14-12-2018,Lost
-64,104, Australia,3,2,"Adelaide Oval, Adelaide",Away,15-01-2019,Won
+64,104, Australia,3,2,A+D82+F65+F65:F84,Away,15-01-2019,Won
 65,116, Australia,3,1,"Vidarbha Cricket Association Stadium, Nagpur",Home,05-03-2019,Won
 66,123, Australia,3,2,"JSCA International Stadium, Ranchi",Home,08-03-2019,Lost
 67,120, West Indies,3,1,"Queen's Park Oval, Port of Spain",Away,11-08-2019,Won
@@ -79,3 +79,5 @@
 78,103*,Bangladesh,3,2,"Maharashtra Cricket Association Stadium, Pune",Home,19-10-2023,Won
 79,101*,South Africa,3,1,"Eden Gardens, Kolkata",,05-11-2024,Won
 80,117,New Zealand,3,1,"Wankhede Stadium, Mumbai",Home,15-11-2023,Won
+81,118*,Australia,3,2,"Optus Stadium, Perth",Away,24-11-2024,Won
+82,119*,Pakistan,3,2,Dubai International Cricket Stadium,Neutral,23-02-2025,Won
